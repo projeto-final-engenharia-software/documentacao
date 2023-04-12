@@ -8,7 +8,8 @@
 - RF006: O sistema deve enviar sms/email para os clientes após a realização da compra para envio de feedbacks.
 - RF007: O sistema deve gerar Dashboards com as informações Vendas , Estoque , etc.
 - RF008: Vendas e faturamento: O sistema deve permitir a realização de vendas e o registro do faturamento gerado, incluindo informações sobre o cliente, produto, quantidade, preço, data, forma de pagamento, entre outros.
-- RF009: Permissionamento: o sistema deverá distinguir as permisões entre os cargos: vendedor, administrador, cliente e estoquista.
+- RF009: Permissionamento: o sistema deverá distinguir as permisões entre os cargos: vendedor, administrador, cliente.
+- RF010: O sistema deve permitir a compra de produtos de forma remota pelo cliente, e ao realizar o pagamento , um entregador sera designado pela entrega.
 - RNF001:Segurança: O sistema deve garantir a segurança das informações cadastradas, incluindo o controle de acesso, a criptografia dos dados, e a prevenção contra invasões e ataques.
 - RNF002:Desempenho: O sistema deve ter uma performance satisfatória, com tempo de resposta rápido, sem atrasos ou interrupções, mesmo em situações de alta demanda.
 - RNF003:Usabilidade: O sistema deve ser fácil de usar e intuitivo, com uma interface amigável e navegabilidade simples
